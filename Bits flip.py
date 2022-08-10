@@ -33,18 +33,3 @@ def main():
     print('The minimum number of flips is:',result)
 if __name__ == "__main__":
     main()
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
